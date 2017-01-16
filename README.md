@@ -11,6 +11,9 @@
 
 ####Blogs:
 * https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+* http://danielwestheide.com/scala/neophytes.html
+* https://medium.com/@abu_nadhr/scala-cats-library-for-dummies-part-1-8ec47af7a144#.7qi333tgs
+
 
 
 
