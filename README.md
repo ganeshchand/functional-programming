@@ -15,6 +15,10 @@
 * https://medium.com/@abu_nadhr/scala-cats-library-for-dummies-part-1-8ec47af7a144#.7qi333tgs
 
 
+###Videos:
+* Category Theory by Tom LaGatta - https://www.youtube.com/watch?v=o6L6XeNdd_k
+* Category Theory by Bartosz Milewski - https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
+
 
 
 Github: 
